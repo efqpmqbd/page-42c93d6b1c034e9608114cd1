@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "24708654a8576e3de01101a0",
+  "owner": "efqpmqbd",
+  "repo": "page-42c93d6b1c034e9608114cd1",
+  "title": "XSUS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "42c93d6b1c034e9608114cd1",
+      "a": "XSUS",
+      "b": "2027官方最新地址导航",
+      "entity": "XSUS",
+      "brand": "XSUS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9ec327f70b1f7bbe8c75dc68f31a6f0b96d39882dae19b8846d52876a6578d1c",
+      "content": {
+        "primary_entity": "XSUS",
+        "keyword1": "XSUS",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备选择对应客户端，再导入订阅信息即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐并完成订阅导入，即可在常用设备上开始使用。",
+          "AI_CLOSING_TITLE": "开始选择适合的套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别对应 3 台、5 台与 20 台设备同时在线，月流量从 100GB 到 1000GB 不等。旗舰版支持全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由。按年付费可节省两个月费用，选择与设备数量、流量需求匹配的套餐后，在客户端导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "从套餐梯度到设备支持，再到订阅周期，帮助快速定位需要的版本。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按日常设备数量挑选。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB 到 1000GB 分档，流媒体、游戏或办公可按用量选择。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付相当于十个月价格，长期使用可选按年付费。",
+          "AI_FEATURE_TITLE_1": "设备数量分档",
+          "AI_FEATURE_TITLE_2": "流量按需选择",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "按步骤确认设备、套餐与订阅配置。",
+          "AI_GUIDE_TITLE": "开始订阅三个步骤",
+          "AI_HERO_INTRO": "XSUS 提供基础版、旗舰版与团队版三档海外加速订阅，覆盖 3 至 20 台设备同时在线、100GB 至 1000GB 月流量，以及流媒体解锁与 IPLC 专线游戏加速等不同场景，可按设备数量和用量选择并按年付费。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量匹配",
+          "AI_HIGHLIGHT_1": "基础版 3 台设备，100GB 月流量",
+          "AI_HIGHLIGHT_2": "旗舰版 5 台设备，IPLC 游戏优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，1000GB 月流量",
+          "AI_PLANS_INTRO": "基础版每月 ¥15 或每年 ¥150，旗舰版每月 ¥35 或每年 ¥350，团队版每月 ¥85 或每年 ¥850，按设备数量与流量需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认所选套餐允许的同时在线设备数，以及是否需要流媒体解锁或游戏加速。",
+          "AI_STEP_TEXT_3": "依照对应客户端的订阅导入说明完成配置，即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "XSUS 订阅套餐与设备选择",
+          "AI_FAQ_TITLE": "XSUS 常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "XSUS 套餐可以升级吗？",
+          "AI_FAQ_ANSWER_1": "可以在订阅周期内联系客服申请升级至更高档套餐，具体差价与生效时间以客服说明为准，升级后流量与设备限制按新套餐执行。",
+          "AI_FAQ_QUESTION_2": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "主要区别在月流量、同时在线设备数与线路类型。基础版 100GB、3 台设备；旗舰版 300GB、5 台设备并增加 IPLC 专线；团队版 1000GB、20 台设备并支持定制路由。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相当于每年节省两个月的月付费用，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_4": "订阅可以导入哪些客户端？",
+          "AI_FAQ_ANSWER_4": "XSUS 订阅通常可导入主流代理客户端，具体支持情况取决于客户端的订阅格式兼容性，建议先查阅所用客户端的导入文档再配置。",
+          "AI_FAQ_QUESTION_5": "团队版支持哪些额外服务？",
+          "AI_FAQ_ANSWER_5": "团队版提供 VIP 专属高带宽节点、企业定制路由与专属客户经理支持，适合多设备协同或企业办公场景，具体定制范围可与客户经理沟通确认。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ejzasyz.cn",
+    "host": "ejzasyz.cn"
+  },
+  "file_hashes": {
+    "index.html": "9b28c3427a025889214699612e7660c0620fc7965cb58ab21a976dd64ad4156f",
+    "sitemap.xml": "73fa690008abfb2610876d141fac79b37343a242adfdaff49faea228773f3b17",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1a2982e15f98681aa675613509d76c332b222a9acf53cff429c25235c0c22e46",
+    "robots.txt": "2227cef18fa8477dee99e2f39df7830857c50a3ba305d50bc1ec5371bf04d3fa",
+    "8fcc37df64aac7fe29aae17b00111407.txt": "c4abdef02d7bb852073d00ed2d72e50634432b3ca33511a8d7edf0ddebae8d72"
+  },
+  "revision": "54ccdac277b059412284df14e91ff164abab8d5f847cbee7ee0f8e31d0ffd72c"
+}
